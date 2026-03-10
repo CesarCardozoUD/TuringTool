@@ -14,4 +14,5 @@ Para esto solo debes abrir las devs tools en tu navegador (usualmente F12), ir a
 ### Paso 3 - Recarga:
 Para que la SPA tome los nuevos cambios, se aconseja recargar la página.
 
-###NOTA: Para probar una "demo" se puede activar la variable de sesion (como en el Paso 2) "emulate" con valor 1, lo que cargará un mock de respuesta de la API. 
+###NOTA: 
+Para probar una "demo" se puede activar la variable de sesion (como en el Paso 2) "emulate" con valor 1, lo que cargará un mock de respuesta de la API. 
